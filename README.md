@@ -30,7 +30,7 @@
 
 ## 📫 Como me encontrar
 
-🔗 GitHub: https://github.com/ArthurMen2006  
+🔗 Email: arthurmenz2610@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/arthur-menezes-8781303a9  
 
 ---
