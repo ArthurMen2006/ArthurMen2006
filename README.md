@@ -22,10 +22,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArthurMen2006&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurMen2006&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurMen2006&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurMen2006&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthurMen2006&theme=tokyonight"/>
+
 
 ---
 
