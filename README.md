@@ -22,14 +22,9 @@
 
 ---
 
-## 📊 GitHub Activity
+## 🔥 GitHub Streak
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurMen2006&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurMen2006&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthurMen2006&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=ArthurMen2006&theme=tokyonight&hide_border=true" />
 
 ---
 
