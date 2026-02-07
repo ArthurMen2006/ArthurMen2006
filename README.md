@@ -1,27 +1,38 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Arthur%20Menezes&fontSize=40)
+
 # 👋 Olá! Eu sou Arthur Menezes
 
 🎓 Formado em Desenvolvimento pelo SENAI  
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Focado em desenvolvimento web  
+🚀 Focado em desenvolvimento web e backend  
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+## 🧠 Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-black?logo=react&logoColor=cyan)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=cyan"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMen2006&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMen2006&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Como me encontrar
 
-- GitHub: https://github.com/ArthurMen2006
-- LinkedIn:www.linkedin.com/in/arthur-menezes-8781303a9
+🔗 GitHub: https://github.com/ArthurMen2006  
+💼 LinkedIn: https://www.linkedin.com/in/arthur-menezes-8781303a9  
 
 ---
 
