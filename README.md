@@ -22,7 +22,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurMen2006&theme=tokyonight"/>
 
