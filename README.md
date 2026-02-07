@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Arthur%20Menezes&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:ff3b3b&height=180&section=header&text=Arthur%20Menezes&fontSize=40&fontColor=ffffff)
+
 
 # 👋 Olá! Eu sou Arthur Menezes
 
@@ -24,8 +25,10 @@
 
 ## 📊 GitHub Stats
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMen2006&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMen2006&layout=compact&theme=tokyonight)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMen2006&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMen2006&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
