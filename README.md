@@ -21,7 +21,7 @@
 ## 📫 Como me encontrar
 
 - GitHub: https://github.com/ArthurMen2006
-- LinkedIn:
+- LinkedIn:www.linkedin.com/in/arthur-menezes-8781303a9
 
 ---
 
