@@ -24,7 +24,7 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=ArthurMen2006&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurMen2006&theme=tokyonight"/>
 
 ---
 
