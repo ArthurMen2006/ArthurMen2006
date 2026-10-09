@@ -3,8 +3,7 @@
 # 👋 Olá! Eu sou Arthur Menezes
 
 🎓 Formado em Desenvolvimento pelo SENAI  
-💻 Estudante de Análise e Desenvolvimento de Sistemas - Estacio 
-
+💻 Estudante de Análise e Desenvolvimento de Sistemas - Estacio
 🚀 Focado em desenvolvimento web e backend  
 
 ---
